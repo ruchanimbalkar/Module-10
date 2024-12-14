@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------------- #
 # Title: Module 10 - Creating a numberpad Window UI
-# # Description: Practicing to le
+# # Description: Practicing to create a number pad
 # --window_root (tk.Tk)
 # --lbl_number_keys (tk.label)
 # --btn_1(tk.button)
